@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Ajeet Pawar</h1>
-<h3 align="left">An aspiring Full Stack Developer</h3>
+<h3 align="left">An aspiring Full Stack Web Developer</h3>
 <img align="right" alt="Coding" height="310" width="310" src="https://img.freepik.com/free-vector/cute-man-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated_138676-9123.jpg?w=740&t=st=1694844260~exp=1694844860~hmac=0ae4e7823f9b2e937192397f73945944e95cc18a97fa85be0d374402c40404f0">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audacity07" alt="audacity07" /></a> </p> -->
