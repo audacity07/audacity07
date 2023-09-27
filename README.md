@@ -12,7 +12,7 @@
 
 - 📫 Reach me at: `ajeetpawar07@gmail.com`
 
-<!-- - 👨‍💻 All of my projects are available at <a href="" target="blank">`portfolio`</a>. -->
+- 👨‍💻 All of my projects are available at <a href="https://audacity07.github.io/" target="blank">`portfolio`</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.**
 
