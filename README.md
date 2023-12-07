@@ -6,7 +6,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on <a href="https://medical-solutions.vercel.app/" target="blank">`Medical Solutions`</a>.
+- 🔭 I’m currently working on <a href="https://posh-division-4370.vercel.app/" target="blank">`Fit Quest`</a>.
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
